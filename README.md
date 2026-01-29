@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou André Luiz, sou novo no mundo da programação Front End, atualmente estudando e criando projetos com:
+Sou André Luiz, Desenvolvedor Front-End | HTML, CSS, JavaScript | Python (em formação) atualmente estudando e criando projetos com:
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="logo-html" />
 - <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="logo-css" />
