@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 💻 Transformando curiosidade em código, uma linha por vez.
+### 💻 Transformando cada código em solução.
 
 Estou construindo minha trajetória como desenvolvedor Front-End, busco evoluir com projetos práticos nas stacks atuais com disciplina e muita vontade de aprender.
 
