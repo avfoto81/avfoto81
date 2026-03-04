@@ -11,7 +11,7 @@
 
 ### 💻 Transformando curiosidade em código, uma linha por vez.
 
-Sou fotógrafo profissional há mais de 15 anos — hoje estou construindo uma nova trajetória como desenvolvedor Front-End, trazendo comigo o olhar criativo e atenção aos detalhes que o mundo visual me ensinou.
+Estou construindo minha trajetória como desenvolvedor Front-End, busco evoluir com projetos práticos nas stacks atuais com disciplina e muita vontade de aprender.
 
 </div>
 
@@ -19,12 +19,12 @@ Sou fotógrafo profissional há mais de 15 anos — hoje estou construindo uma n
 
 ## 🚀 Sobre mim
 
-- 🎯 Em transição de carreira para **Desenvolvimento Web**
+- 🎯 Aplicando projetos voltados para **Desenvolvimento Web**
 - 📚 Estudando diariamente: **HTML · CSS · JavaScript · Python**
 - 🤖 Explorando projetos com **Inteligência Artificial**
 - 🏗️ Sempre construindo algo novo — veja meus repositórios!
 - 📍 Brasil
-- 💬 Frase que me guia: *"Sempre aprendendo."*
+- 💬 Salmos 119:105 "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho."*
 
 ---
 
