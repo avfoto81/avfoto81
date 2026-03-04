@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado com gradiente -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:06b6d4&height=200&section=header&text=André%20Luiz&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Em%20transição%20para%20tech&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:06b6d4&height=200&section=header&text=André%20Luiz&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Web%20Júnior%20%7C%20JavaScript%20%7C%20Python&descAlignY=58&descSize=18&animation=fadeIn" />
 
 </div>
 
